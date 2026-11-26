@@ -1,0 +1,21 @@
+🚀 Excited to share my learning from Module 02: Prompt Engineering & AI Productivity!
+
+During this module, I explored how to communicate effectively with AI tools and use them to improve everyday productivity.
+
+📌 Key things I learned:
+• Zero-shot and few-shot prompting
+• Using roles, context, instructions, and constraints
+• Creating structured outputs such as JSON
+• Writing prompts for summarization, classification, and content generation
+• Using AI for coding assistance and debugging
+• Creating reusable prompts for emails, resumes, research, and other tasks
+• Evaluating and improving prompt quality
+
+💡 Practical outcome:
+I created an AI Productivity Toolkit with reusable prompt templates, Python demonstrations in Google Colab, sample inputs and outputs, and a prompt testing report.
+
+This experience taught me that clear instructions can lead to more useful AI responses. I also learned the importance of checking AI-generated information before using it.
+
+I look forward to applying these skills in real-world projects!
+
+#GenerativeAI #PromptEngineering #ArtificialIntelligence #AIProductivity #GoogleColab #Python #LearningJourney

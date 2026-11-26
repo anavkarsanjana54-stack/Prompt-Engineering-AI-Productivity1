@@ -1,0 +1,3 @@
+# The core demonstration uses only Python's standard library.
+# Optional: install these packages if you extend the project.
+pandas>=2.0
